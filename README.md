@@ -1,5 +1,5 @@
 # IPhish
-#Author Ry4anCxeven
+Author Ry4anCxeven
 A beginner-friendly phishing awareness and cybersecurity training toolkit developed for educational purposes and authorized security research.
 
 ## Disclaimer
